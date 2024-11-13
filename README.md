@@ -16,4 +16,4 @@ Developed and deployed interactive Power BI dashboards to analyze revenue trends
 3. **Insights & Decision Making** - Enhanced decision-making by providing insights into revenue performance.
 
 ## Screenshots
-![Dashboard Preview](Screenshots/Hotel dashboard.png)
+![Dashboard Preview](Screenshots/Hotel_dashboard.png)
